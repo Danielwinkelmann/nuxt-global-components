@@ -16,6 +16,7 @@
     "nuxt-monaco-editor": "^1.1.4"
   },
   "dependencies": {
+    "@highlightjs/vue-plugin": "^2.1.0",
     "nuxt-runtime-compiler": "^1.2.2"
   }
 }

@@ -10,6 +10,9 @@
       <NuxtLink to="/render-vue-string" class="bg-blue-200 rounded-md p-2">
         Render Vue String
       </NuxtLink>
+      <NuxtLink to="/highlightjs" class="bg-blue-200 rounded-md p-2">
+        Highlightjs
+      </NuxtLink>
     </nav>
   </div>
 </template>
